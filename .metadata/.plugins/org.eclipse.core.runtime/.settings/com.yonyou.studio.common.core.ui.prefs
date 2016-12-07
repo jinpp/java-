@@ -1,0 +1,3 @@
+EXCEPT_JAR_NC_HOME=nc.bs.framework.tool.config.+.jar\r\ntestbill.+.jar\r\n.*PROXY.jar
+FIELD_EX_MODULES=
+eclipse.preferences.version=1
