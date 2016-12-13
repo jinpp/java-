@@ -21,7 +21,7 @@ public class ArrDemo1 extends Applet {
 			for (j = 0; j < 4; j++) {
 				// 后++，先加1后使用
 				arr1[i][j] = k++;
-				// x,等差数列d=20,y,等差数列d=20
+				//x,等差数列d=20,y,等差数列d=20
 				g.drawString("" + arr1[i][j], 20 + 20 * j, 40 + 20 * i);
 			}
 		}
