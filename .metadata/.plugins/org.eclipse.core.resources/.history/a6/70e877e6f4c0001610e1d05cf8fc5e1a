@@ -1,0 +1,9 @@
+package BitDemo;
+
+import java.util.Random;
+
+public class BitDemo {
+	public static void main(String[] args) {
+		Random random = new Random();
+	}
+}
