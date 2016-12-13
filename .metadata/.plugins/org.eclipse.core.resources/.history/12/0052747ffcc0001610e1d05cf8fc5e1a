@@ -1,0 +1,7 @@
+package ArrDemo1;
+
+import java.applet.Applet;
+
+public class ArrDemo1 extends Applet{
+
+}

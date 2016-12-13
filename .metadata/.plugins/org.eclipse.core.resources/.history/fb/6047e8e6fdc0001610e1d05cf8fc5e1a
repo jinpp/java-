@@ -1,0 +1,18 @@
+package ArrDemo1;
+
+import java.applet.Applet;
+import java.awt.Graphics;
+
+public class ArrDemo1 extends Applet {
+
+	private static final long serialVersionUID = 2409528814974068747L;
+
+	public void paint(Graphics g) {
+		// arr1,3行4列
+		int[][] arr1 = new int[3][4];
+		// arr1,3行4列
+				int[][] arr1 = new int[3][4];
+				// arr1,3行4列
+				int[][] arr1 = new int[3][4];
+	}
+}

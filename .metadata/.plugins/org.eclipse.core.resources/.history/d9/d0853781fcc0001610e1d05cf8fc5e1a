@@ -1,0 +1,12 @@
+package ArrDemo1;
+
+import java.applet.Applet;
+
+public class ArrDemo1 extends Applet{
+
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 2409528814974068747L;
+
+}

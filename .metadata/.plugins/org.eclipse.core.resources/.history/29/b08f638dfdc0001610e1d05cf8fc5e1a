@@ -1,0 +1,15 @@
+package ArrDemo1;
+
+import java.applet.Applet;
+import java.awt.Graphics;
+
+public class ArrDemo1 extends Applet {
+
+	private static final long serialVersionUID = 2409528814974068747L;
+public static void main(String [] args){
+
+}
+	public void paint(Graphics g) {
+
+	}
+}
