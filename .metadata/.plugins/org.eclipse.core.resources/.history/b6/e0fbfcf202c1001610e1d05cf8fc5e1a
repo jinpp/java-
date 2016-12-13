@@ -1,0 +1,18 @@
+package LeapYear;
+
+import java.io.IOException;
+
+/**
+ * 
+ * @author 金盼盼
+ * 
+ */
+public class LeapYear {
+	public static void main(String[] args) throws IOException {
+		System.out.println("请输入一个年份：");
+		BufferedReader strin=new BufferedReader(new InputStreamReader(System.in));  
+        System.out.print("请输入一个字符串：");  
+        String str = strin.readLine();  
+		System.in.read();
+	}
+}

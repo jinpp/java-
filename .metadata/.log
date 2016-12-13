@@ -256,3 +256,18 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 
 !ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-12-13 14:10:34.817
 !MESSAGE properties loading for project 'ArrDemo1'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-12-13 15:02:12.616
+!MESSAGE properties loading for project 'LeapYear'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-12-13 15:06:01.718
+!MESSAGE properties removing for project 'ArrDemo1'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-12-13 15:06:04.398
+!MESSAGE properties removing for project 'ArrDemo'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-12-13 15:06:07.885
+!MESSAGE properties removing for project 'BitDemo'
+
+!ENTRY jp.gr.java_conf.ussiy.app.propedit 1 0 2016-12-13 15:06:10.192
+!MESSAGE properties removing for project 'BubbleSort'
